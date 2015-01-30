@@ -31,7 +31,7 @@ Setup?
 Assuming you have a working Vagrant setup on your system it should be real simple
 to get going:
 
-    $ git clone git://github.com/ripienaar/mcollective-vagrant.git
+    $ git clone git://github.com/mohitsethi/mcollective-vagrant.git
     $ cd mcollective-vagrant
 
 You should now edit the Vagrantfile and adjust the constants at the top to your
@@ -495,4 +495,4 @@ the forge so PRs would be appreciated
 
 Contact?
 --------
-R.I.Pienaar / rip@devco.net / [@ripienaar](http://twitter.com/ripienaar) / http://devco.net/
+R.I.Pienaar / rip@devco.net / [@mohitsethi](http://twitter.com/mohitsethi) / http://devco.net/
